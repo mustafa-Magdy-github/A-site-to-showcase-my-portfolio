@@ -1,0 +1,40 @@
+body
+{
+    direction: rtl;
+
+    a:hover{text-decoration: none;}
+    font-family: 'Jomhuria', cursive;
+    font-family: 'Mirza', cursive;
+}
+
+
+@import "Vendo/header/header";
+
+
+
+// Nav
+@import "Vendo/Nav/Section1-home-Peg/Section1-home-Peg";
+@import "Vendo/Nav/Section2-About/Section2-About";
+@import "Vendo/Nav/Section3-Services/Section3-Services";
+@import "Vendo/Nav/Section4-My-business/Section4-My-business";
+@import "Vendo/Nav/Section5-Contact/Section5-Contact";
+@import "Vendo/footer/footer";
+
+
+
+
+
+// Pages Index html
+
+
+
+
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: #f1f1f1; }
+
+    ::-webkit-scrollbar-thumb 
+    {
+        background-color: #353b48;
+        height: 15vh;
+    }

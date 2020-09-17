@@ -1,0 +1,54 @@
+footer
+{
+    background-image: url(https://personalwebsite3.netlify.app/images/bg.jpg);
+    background-size: cover;
+    background-position: right;
+
+.container
+{
+    padding: 60px 0;
+    text-align: center;
+    color: whitesmoke;
+
+
+    .col-lg-12
+    {
+        div
+        {
+            .card-text
+            {
+                font-size: 1.2rem;
+
+                a
+                {
+                    color: cadetblue;
+                }
+            }
+
+            .card-text:hover a
+            {
+                border-radius: 5px 5px 0px 0px;
+                padding: 0px 10px;
+                overflow: hidden;
+                color: whitesmoke;
+            }
+            p
+            {
+                font-size: 1.2rem;
+
+                a
+                {
+                    svg
+                    {
+                        color: cadetblue;
+                         margin: 1em;;
+                    }
+                }
+            }
+
+
+        }
+    }
+}
+    
+}

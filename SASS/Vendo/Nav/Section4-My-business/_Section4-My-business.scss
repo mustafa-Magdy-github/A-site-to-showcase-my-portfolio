@@ -1,0 +1,135 @@
+.Section4-My-business
+{
+    overflow: hidden;
+    background-color: #f1f1f1;
+    height: auto;
+    padding: 4em 0em;
+
+
+.container
+{
+
+
+.card-header-text
+{
+    div
+    {
+        h1
+        {
+            font-family: 'Mirza', cursive;
+            color: #2196F3; 
+        }
+    }
+}
+
+.card-header-text-m3rd
+{
+    div
+    {    text-align: center;
+        margin: 2em 0em;
+        font-family: 'Jomhuria', cursive;
+        font-family: 'Mirza', cursive;
+        h1
+        {
+            font-size: 2rem;
+            border-bottom: 2px solid #3535357a;
+            display: initial;
+            padding: 7px 0px;
+            color: #2196F3;
+        }
+    }
+}
+
+.card-m3rd
+{       
+    margin: 1.5rem 0rem;
+    
+.app
+{
+    height: auto;
+    background-size: cover;
+    padding: 0;
+    position: relative;
+    overflow: hidden;
+    border-radius: .5em;
+    .card-img
+    {
+        img
+        {
+            width: 100%;  
+        }
+    }
+
+    .app-text-hover
+    {
+        position: absolute;
+        top: 0;
+        background: linear-gradient(45deg, black, transparent);
+        color: #fff;
+        width: 100%;
+        margin: auto;
+        padding: 0em 0em;
+        align-items: center;
+        opacity: 0;
+        transition: 1s;
+        height: -webkit-fill-available;
+        text-align: center;
+     
+            .text
+            {
+                display: flex;
+                flex-direction: column;
+
+    
+                a
+                {
+                    font-size: 30px;
+                    color: whitesmoke;
+                    font-family: 'Jomhuria', cursive;
+                  
+
+                
+                }
+    
+    
+                a
+                {
+                    svg
+                    {
+                        font-size: 22px;
+                        margin: 4px 0px;
+                        color: #fff;
+                    }
+                }
+            }
+        
+    }
+}
+
+
+
+
+
+
+
+}
+
+
+.card-m3rd .app:hover .app-text-hover
+{
+    opacity: inherit;
+}
+
+.card-m3rd .app-text-hover .text a:hover svg
+{
+    color: #fb4851;
+}
+
+
+
+
+}
+
+
+
+}

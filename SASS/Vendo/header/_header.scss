@@ -1,0 +1,379 @@
+@media (min-width: 1200px)
+{ 
+    
+header
+{
+    position: absolute;
+    width: 100%;
+    .Section-Header
+    {
+
+
+.row
+{
+    margin: 2em 0em;
+}
+
+        .card-logo-header
+        {
+            div
+            {
+                img
+                {
+                    width: 35%;
+                    filter: saturate(0.9);
+                }
+            }
+        }
+
+
+
+        .card-navbar
+        {
+            text-align: -webkit-auto;
+            padding: 0;
+            div
+            {
+                a
+                {
+                    color: whitesmoke;
+                    padding: 11px 10px;
+                    line-height: 3;
+                    margin: 4px;
+                    font-size: 16px;
+                    transition: .5s;
+
+
+                    svg
+                    {
+                        margin: 0px 2px;
+                    }
+
+
+                    img
+                    {width: 10%;}
+
+                }
+
+                a:hover
+                {
+                 color: #9e9e9e;
+             
+                }
+            }
+        }
+
+
+
+    }
+}
+
+
+
+    
+}
+
+
+
+@media (min-width: 992px) and (max-width: 1199.98px)
+{ 
+    header
+    {
+        position: absolute;
+        width: 100%;
+        .Section-Header
+        {
+    
+    
+    .row
+    {
+        margin: 2em 0em;
+        align-items: baseline;
+    }
+    
+            .card-logo-header
+            {    width: 20%;
+                div
+                {
+                    img
+                    {
+                        width: 90%;
+                        filter: saturate(0.9);
+                    }
+                }
+            }
+    
+    
+    
+            .card-navbar
+            {
+                text-align: -webkit-auto;
+                padding: 0;
+                width: 80%;
+                div
+                {
+                    a
+                    {
+                        color: whitesmoke;
+                        padding: 11px 10px;
+                        line-height: 3;
+                        margin: 4px;
+                        font-size: 16px;
+                        transition: .5s;
+    
+    
+                        svg
+                        {
+                            margin: 0px 2px;
+                        }
+    
+    
+                        img
+                        {width: 10%;}
+    
+                    }
+    
+                    a:hover
+                    {
+                     color: #9e9e9e;
+                 
+                    }
+                }
+            }
+    
+    
+    
+        }
+    }
+}
+
+
+
+
+@media (min-width: 768px) and (max-width: 991.98px)
+{ 
+    header
+    {
+        position: absolute;
+        width: 100%;
+        .Section-Header
+        {
+    
+    
+    .row
+    {
+        margin: 2em 0em;
+        align-items: baseline;
+    }
+    
+            .card-logo-header
+            {    width: 20%;
+                div
+                {
+                    img
+                    {
+                        width: 90%;
+                        filter: saturate(0.9);
+                    }
+                }
+            }
+    
+    
+    
+            .card-navbar
+            {
+                text-align: -webkit-auto;
+                padding: 0;
+                width: 80%;
+                div
+                {
+                    a
+                    {
+                        color: whitesmoke;
+                        padding: 11px 10px;
+                        line-height: 3;
+                        margin: 4px;
+                        font-size: 16px;
+                        transition: .5s;
+    
+    
+                        svg
+                        {
+                            margin: 0px 2px;
+                        }
+    
+    
+                        img
+                        {width: 10%;}
+    
+                    }
+    
+                    a:hover
+                    {
+                     color: #9e9e9e;
+                 
+                    }
+                }
+            }
+    
+    
+    
+        }
+    }
+}
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px)
+{
+ 
+    header
+    {
+        position: absolute;
+        width: 100%;
+        .Section-Header
+        {
+    
+    
+    .row
+    {
+        margin: 2em 0em;
+        align-items: baseline;
+    }
+    
+            .card-logo-header
+            {    width: 20%;
+                div
+                {
+                    img
+                    {
+                        width: 90%;
+                        filter: saturate(0.9);
+                    }
+                }
+            }
+    
+    
+    
+            .card-navbar
+            {
+                text-align: -webkit-auto;
+                padding: 0;
+                width: 80%;
+                div
+                {
+                    a
+                    {
+                        color: whitesmoke;
+                        padding: 11px 0px;
+                        line-height: 3;
+                        margin: 4px;
+                        font-size: 16px;
+                        transition: .5s;
+    
+    
+                        svg
+                        {
+                            margin: 0px 2px;
+                        }
+    
+    
+                        img
+                        {width: 10%;}
+    
+                    }
+    
+                    a:hover
+                    {
+                     color: #9e9e9e;
+                 
+                    }
+                }
+            }
+    
+    
+    
+        }
+    }    
+
+}
+
+
+
+@media (max-width: 575.98px)
+{
+ 
+    header
+    {
+        position: absolute;
+        width: 100%;
+        .Section-Header
+        {
+    
+    
+    .row
+    {
+        margin: 2em 0em;
+        align-items: baseline;
+    }
+    
+            .card-logo-header
+            {   
+                width: 100%;
+                text-align: center;
+                div
+                {    margin: 2em;
+                    img
+                    {
+                        width: 35%;
+                        filter: saturate(0.9);
+                    }
+                }
+            }
+    
+    
+    
+            .card-navbar
+            {
+                text-align: -webkit-auto;
+                padding: 0;
+                width: 100%;
+                div
+                {
+                    display: flex;
+                    justify-content: space-around;
+                    a
+                    {
+                        color: whitesmoke;
+                        padding: 11px 0px;
+                        line-height: 3;
+                        margin: 4px;
+                        font-size: 16px;
+                        transition: .5s;
+    
+    
+                        svg
+                        {
+                            margin: 0px 2px;
+                        }
+    
+    
+                        img
+                        {width: 10%;}
+    
+                    }
+    
+                    a:hover
+                    {
+                     color: #9e9e9e;
+                 
+                    }
+                }
+            }
+    
+    
+    
+        }
+    }    
+
+}

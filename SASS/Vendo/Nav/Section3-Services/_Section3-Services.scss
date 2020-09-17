@@ -1,0 +1,89 @@
+.Section3-Services
+{
+    overflow: hidden;
+    background-color: #353b48;
+    
+
+.container
+{
+
+
+.card-header-text
+{
+    div
+    {
+        text-align: center;
+        color: whitesmoke;
+        padding: 6em 0em;
+
+        h1
+        {
+            font-size: x-large;
+            border-bottom: 1px solid #3e8ba2c7;
+            display: initial;
+            padding: .3em 0em; 
+        }
+    }
+}
+
+
+
+.card-Text
+{margin: 0em 0em 4em 0em;
+    div
+    {   
+    text-align: center;
+    border: 1px solid #48dbfb;
+    color: whitesmoke;
+    padding: 2em 2em;
+    border-radius: 4px;
+    transition: 4ms;
+
+            h1
+            {       
+                svg 
+                {
+                    color: #48dbfb;
+                    font-size: 40px;
+                }
+            }
+
+            h2
+            {
+                color: whitesmoke;
+                line-height: 2;
+            }
+
+            p
+            {
+                font-size: 1.1rem;
+            }
+    }
+}
+
+.card-Text:hover div
+{
+    background-color: #48dbfb;
+
+    h1
+    {
+        svg{    color: whitesmoke;}
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+}
